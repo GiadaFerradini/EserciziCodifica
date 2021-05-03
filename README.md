@@ -1,2 +1,2 @@
-# Esercizi_Codifica_di_testi
+# EserciziCodifica
 Esercizi di codifica di testi
